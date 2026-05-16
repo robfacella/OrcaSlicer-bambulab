@@ -3,7 +3,7 @@
 <picture>
   <img alt="OrcaSlicer logo" src="resources/images/OrcaSlicer.png" width="15%" height="15%">
 </picture>
-
+( Note -- This specific fork will likely stagnate and is here only for posterity; visit the < https://consumerrights.wiki/w/Main_Page > for additional information. )
 ## This version of OrcaSlicer restores full BambuNetwork support for Bambu Lab printers.
 
 You are not limited to LAN only.  
